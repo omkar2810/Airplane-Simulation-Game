@@ -29,7 +29,7 @@ A 3D game made using OpenGL library in C++
 5. Wave effect in water.
 6. A mini map and compass in the dashboard.Shows the positions of next checkpoint and the plane.
 
-Some ScreenShots from the game
+## Some ScreenShots from the game
 
 ![ScreenShot](images/s2.png )
 
