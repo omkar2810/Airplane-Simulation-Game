@@ -31,9 +31,9 @@ A 3D game made using OpenGL library in C++
 
 Some ScreenShots from the game
 
-[!ScreenShot](images/s2.png)
+![ScreenShot](images/s2.png )
 
 
-[!ScreenShot](images/s3.png)
+![ScreenShot](images/s3.png)
 
 
