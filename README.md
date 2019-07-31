@@ -1,6 +1,8 @@
 # Airplane-Simulation-Game
 A 3D game made using OpenGL library in C++
 
+Run the command `./airplane_simulator` inside the build folder to start the game
+
 ## Controls
 - Up arrow -> move forward
 - Down arrow -> move down
